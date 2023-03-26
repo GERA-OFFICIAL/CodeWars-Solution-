@@ -20,4 +20,3 @@
 ## Мой профиль на Codewars
 
 [![](https://www.codewars.com/users/GERA_OFFICIAL/badges/large)](https://www.codewars.com/users/GERA_OFFICIAL)
-
