@@ -11,7 +11,6 @@
 Здесь собраны именно мои, не профессиональные и не самые оптимизированные решения. Исключительно мои!
 
 [8 Kyu - Beginner](./8kyu/README.md) 
-
 [7 Kyu - Beginner](./7kyu/README.md)  
 [6 Kyu - Novice](./6kyu/README.md)  
 [5 Kyu - Novice](./5kyu/README.md)  
